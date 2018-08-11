@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Bjss.PriceBasket.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "Bread Soup Apples Milk Milk Apples Soup Soup Soup Soup Bread",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

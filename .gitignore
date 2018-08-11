@@ -1,0 +1,19 @@
+packages/
+Eps.IdentityServer/bin/
+Eps.IdentityServer.Infrastructure/obj/
+Eps.IdentityServer/obj/
+Eps.IdentityServer.Core/obj/
+Eps.IdentityServer.Infrastructure/bin/
+Eps.IdentityServer.Core/bin/
+TestResults/
+Eps.IdentityServer/logs/
+Eps.IdentityServer/identityserver4_log.txt
+cli-tools/
+Eps.IdentityServer.Tests/bin/
+Eps.IdentityServer.Tests/obj/
+Eps.IdentityServer.Core.Tests/obj/
+Eps.IdentityServer.Core.Tests/bin/
+build/
+.vs/Eps.IdentityServer/v15/.suo
+.vs/Eps.IdentityServer/v15/sqlite3/storage.ide
+Eps.IdentityServer/Properties/PublishProfiles/epsumapoc-identityserver - Web Deploy.pubxml

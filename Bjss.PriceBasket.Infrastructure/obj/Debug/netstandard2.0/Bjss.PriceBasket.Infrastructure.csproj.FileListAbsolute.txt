@@ -1,0 +1,12 @@
+c:\privatedev\BjssAssesment.PriceBasket\BjssAssesment.PriceBasket.Infrastructure\bin\Debug\netstandard2.0\Bjss.PriceBasket.Infrastructure.deps.json
+c:\privatedev\BjssAssesment.PriceBasket\BjssAssesment.PriceBasket.Infrastructure\bin\Debug\netstandard2.0\Bjss.PriceBasket.Infrastructure.dll
+c:\privatedev\BjssAssesment.PriceBasket\BjssAssesment.PriceBasket.Infrastructure\bin\Debug\netstandard2.0\Bjss.PriceBasket.Infrastructure.pdb
+c:\privatedev\BjssAssesment.PriceBasket\BjssAssesment.PriceBasket.Infrastructure\bin\Debug\netstandard2.0\Bjss.PriceBasket.Core.dll
+c:\privatedev\BjssAssesment.PriceBasket\BjssAssesment.PriceBasket.Infrastructure\bin\Debug\netstandard2.0\Bjss.PriceBasket.Core.pdb
+c:\privatedev\BjssAssesment.PriceBasket\BjssAssesment.PriceBasket.Infrastructure\obj\Debug\netstandard2.0\Bjss.PriceBasket.Infrastructure.csprojAssemblyReference.cache
+c:\privatedev\BjssAssesment.PriceBasket\BjssAssesment.PriceBasket.Infrastructure\obj\Debug\netstandard2.0\Bjss.PriceBasket.Infrastructure.csproj.CoreCompileInputs.cache
+c:\privatedev\BjssAssesment.PriceBasket\BjssAssesment.PriceBasket.Infrastructure\obj\Debug\netstandard2.0\Bjss.PriceBasket.Infrastructure.AssemblyInfoInputs.cache
+c:\privatedev\BjssAssesment.PriceBasket\BjssAssesment.PriceBasket.Infrastructure\obj\Debug\netstandard2.0\Bjss.PriceBasket.Infrastructure.AssemblyInfo.cs
+c:\privatedev\BjssAssesment.PriceBasket\BjssAssesment.PriceBasket.Infrastructure\obj\Debug\netstandard2.0\Bjss.PriceBasket.Infrastructure.csproj.CopyComplete
+c:\privatedev\BjssAssesment.PriceBasket\BjssAssesment.PriceBasket.Infrastructure\obj\Debug\netstandard2.0\Bjss.PriceBasket.Infrastructure.dll
+c:\privatedev\BjssAssesment.PriceBasket\BjssAssesment.PriceBasket.Infrastructure\obj\Debug\netstandard2.0\Bjss.PriceBasket.Infrastructure.pdb
