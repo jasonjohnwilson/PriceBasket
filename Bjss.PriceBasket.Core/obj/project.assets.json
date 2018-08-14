@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\privatedev\\BjssAssesment.PriceBasket\\Bjss.PriceBasket.Core\\Bjss.PriceBasket.Core.csproj",
+      "projectUniqueName": "C:\\privatedev\\Bjss.PriceBasket\\Bjss.PriceBasket.Core\\Bjss.PriceBasket.Core.csproj",
       "projectName": "Bjss.PriceBasket.Core",
-      "projectPath": "C:\\privatedev\\BjssAssesment.PriceBasket\\Bjss.PriceBasket.Core\\Bjss.PriceBasket.Core.csproj",
+      "projectPath": "C:\\privatedev\\Bjss.PriceBasket\\Bjss.PriceBasket.Core\\Bjss.PriceBasket.Core.csproj",
       "packagesPath": "C:\\Users\\jwilson\\.nuget\\packages\\",
-      "outputPath": "C:\\privatedev\\BjssAssesment.PriceBasket\\Bjss.PriceBasket.Core\\obj\\",
+      "outputPath": "C:\\privatedev\\Bjss.PriceBasket\\Bjss.PriceBasket.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

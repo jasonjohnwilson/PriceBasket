@@ -1147,6 +1147,7 @@
       "Bjss.PriceBasket.Infrastructure/1.0.0": {
         "dependencies": {
           "Bjss.PriceBasket.Core": "1.0.0",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.0.0",
           "Microsoft.EntityFrameworkCore": "2.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "2.0.0",

@@ -35,6 +35,7 @@ namespace Bjss.PriceBasket
         }
 
         public IConfigurationRoot Configuration { get; private set; }
+
         public IHostingEnvironment Environment { get; set; }
 
         public void ConfigureServices(IServiceCollection services)

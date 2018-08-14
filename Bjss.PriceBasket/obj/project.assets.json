@@ -1949,6 +1949,7 @@
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
           "Bjss.PriceBasket.Core": "1.0.0",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.0.0",
           "Microsoft.EntityFrameworkCore": "2.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "2.0.0",
@@ -6182,11 +6183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\privatedev\\BjssAssesment.PriceBasket\\Bjss.PriceBasket\\Bjss.PriceBasket.csproj",
+      "projectUniqueName": "C:\\privatedev\\Bjss.PriceBasket\\Bjss.PriceBasket\\Bjss.PriceBasket.csproj",
       "projectName": "Bjss.PriceBasket",
-      "projectPath": "C:\\privatedev\\BjssAssesment.PriceBasket\\Bjss.PriceBasket\\Bjss.PriceBasket.csproj",
+      "projectPath": "C:\\privatedev\\Bjss.PriceBasket\\Bjss.PriceBasket\\Bjss.PriceBasket.csproj",
       "packagesPath": "C:\\Users\\jwilson\\.nuget\\packages\\",
-      "outputPath": "C:\\privatedev\\BjssAssesment.PriceBasket\\Bjss.PriceBasket\\obj\\",
+      "outputPath": "C:\\privatedev\\Bjss.PriceBasket\\Bjss.PriceBasket\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6205,14 +6206,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\privatedev\\BjssAssesment.PriceBasket\\Bjss.PriceBasket.Application\\Bjss.PriceBasket.Application.csproj": {
-              "projectPath": "C:\\privatedev\\BjssAssesment.PriceBasket\\Bjss.PriceBasket.Application\\Bjss.PriceBasket.Application.csproj"
+            "C:\\privatedev\\Bjss.PriceBasket\\Bjss.PriceBasket.Application\\Bjss.PriceBasket.Application.csproj": {
+              "projectPath": "C:\\privatedev\\Bjss.PriceBasket\\Bjss.PriceBasket.Application\\Bjss.PriceBasket.Application.csproj"
             },
-            "C:\\privatedev\\BjssAssesment.PriceBasket\\Bjss.PriceBasket.Core\\Bjss.PriceBasket.Core.csproj": {
-              "projectPath": "C:\\privatedev\\BjssAssesment.PriceBasket\\Bjss.PriceBasket.Core\\Bjss.PriceBasket.Core.csproj"
+            "C:\\privatedev\\Bjss.PriceBasket\\Bjss.PriceBasket.Core\\Bjss.PriceBasket.Core.csproj": {
+              "projectPath": "C:\\privatedev\\Bjss.PriceBasket\\Bjss.PriceBasket.Core\\Bjss.PriceBasket.Core.csproj"
             },
-            "C:\\privatedev\\BjssAssesment.PriceBasket\\Bjss.PriceBasket.Infrastructure\\Bjss.PriceBasket.Infrastructure.csproj": {
-              "projectPath": "C:\\privatedev\\BjssAssesment.PriceBasket\\Bjss.PriceBasket.Infrastructure\\Bjss.PriceBasket.Infrastructure.csproj"
+            "C:\\privatedev\\Bjss.PriceBasket\\Bjss.PriceBasket.Infrastructure\\Bjss.PriceBasket.Infrastructure.csproj": {
+              "projectPath": "C:\\privatedev\\Bjss.PriceBasket\\Bjss.PriceBasket.Infrastructure\\Bjss.PriceBasket.Infrastructure.csproj"
             }
           }
         }

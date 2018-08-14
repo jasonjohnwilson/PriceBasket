@@ -1,12 +1,24 @@
-c:\privatedev\BjssAssesment.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.csprojAssemblyReference.cache
-c:\privatedev\BjssAssesment.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.csproj.CoreCompileInputs.cache
-c:\privatedev\BjssAssesment.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.AssemblyInfoInputs.cache
-c:\privatedev\BjssAssesment.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.AssemblyInfo.cs
-c:\privatedev\BjssAssesment.PriceBasket\Bjss.PriceBasket.Application\bin\Debug\netstandard2.0\Bjss.PriceBasket.Application.deps.json
-c:\privatedev\BjssAssesment.PriceBasket\Bjss.PriceBasket.Application\bin\Debug\netstandard2.0\Bjss.PriceBasket.Application.dll
-c:\privatedev\BjssAssesment.PriceBasket\Bjss.PriceBasket.Application\bin\Debug\netstandard2.0\Bjss.PriceBasket.Application.pdb
-c:\privatedev\BjssAssesment.PriceBasket\Bjss.PriceBasket.Application\bin\Debug\netstandard2.0\Bjss.PriceBasket.Core.dll
-c:\privatedev\BjssAssesment.PriceBasket\Bjss.PriceBasket.Application\bin\Debug\netstandard2.0\Bjss.PriceBasket.Core.pdb
-c:\privatedev\BjssAssesment.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.csproj.CopyComplete
-c:\privatedev\BjssAssesment.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.dll
-c:\privatedev\BjssAssesment.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.pdb
+C:\Users\jwilson\Downloads\Bjss.PriceBasket (1)\Bjss.PriceBasket\Bjss.PriceBasket.Application\bin\Debug\netstandard2.0\Bjss.PriceBasket.Application.deps.json
+C:\Users\jwilson\Downloads\Bjss.PriceBasket (1)\Bjss.PriceBasket\Bjss.PriceBasket.Application\bin\Debug\netstandard2.0\Bjss.PriceBasket.Application.dll
+C:\Users\jwilson\Downloads\Bjss.PriceBasket (1)\Bjss.PriceBasket\Bjss.PriceBasket.Application\bin\Debug\netstandard2.0\Bjss.PriceBasket.Application.pdb
+C:\Users\jwilson\Downloads\Bjss.PriceBasket (1)\Bjss.PriceBasket\Bjss.PriceBasket.Application\bin\Debug\netstandard2.0\Bjss.PriceBasket.Core.dll
+C:\Users\jwilson\Downloads\Bjss.PriceBasket (1)\Bjss.PriceBasket\Bjss.PriceBasket.Application\bin\Debug\netstandard2.0\Bjss.PriceBasket.Core.pdb
+C:\Users\jwilson\Downloads\Bjss.PriceBasket (1)\Bjss.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.csprojAssemblyReference.cache
+C:\Users\jwilson\Downloads\Bjss.PriceBasket (1)\Bjss.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.csproj.CoreCompileInputs.cache
+C:\Users\jwilson\Downloads\Bjss.PriceBasket (1)\Bjss.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.AssemblyInfoInputs.cache
+C:\Users\jwilson\Downloads\Bjss.PriceBasket (1)\Bjss.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.AssemblyInfo.cs
+C:\Users\jwilson\Downloads\Bjss.PriceBasket (1)\Bjss.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.csproj.CopyComplete
+C:\Users\jwilson\Downloads\Bjss.PriceBasket (1)\Bjss.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.dll
+C:\Users\jwilson\Downloads\Bjss.PriceBasket (1)\Bjss.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.pdb
+C:\privatedev\Bjss.PriceBasket\Bjss.PriceBasket.Application\bin\Debug\netstandard2.0\Bjss.PriceBasket.Application.deps.json
+C:\privatedev\Bjss.PriceBasket\Bjss.PriceBasket.Application\bin\Debug\netstandard2.0\Bjss.PriceBasket.Application.dll
+C:\privatedev\Bjss.PriceBasket\Bjss.PriceBasket.Application\bin\Debug\netstandard2.0\Bjss.PriceBasket.Application.pdb
+C:\privatedev\Bjss.PriceBasket\Bjss.PriceBasket.Application\bin\Debug\netstandard2.0\Bjss.PriceBasket.Core.dll
+C:\privatedev\Bjss.PriceBasket\Bjss.PriceBasket.Application\bin\Debug\netstandard2.0\Bjss.PriceBasket.Core.pdb
+C:\privatedev\Bjss.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.csprojAssemblyReference.cache
+C:\privatedev\Bjss.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.csproj.CoreCompileInputs.cache
+C:\privatedev\Bjss.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.AssemblyInfoInputs.cache
+C:\privatedev\Bjss.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.AssemblyInfo.cs
+C:\privatedev\Bjss.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.csproj.CopyComplete
+C:\privatedev\Bjss.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.dll
+C:\privatedev\Bjss.PriceBasket\Bjss.PriceBasket.Application\obj\Debug\netstandard2.0\Bjss.PriceBasket.Application.pdb

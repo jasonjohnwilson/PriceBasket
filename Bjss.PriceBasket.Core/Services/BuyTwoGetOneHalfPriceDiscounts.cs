@@ -39,7 +39,6 @@ namespace Bjss.PriceBasket.Core.Services
                .Select(s => s.BuyTwoGetOneHalfPriceSpecialOffer);
 
             foreach (var offer in specialOffers)
-
             {
                 var buyTwoItemCount = basket.Items.Count(i => i.Id == offer.BuyTwoOfProductId);
                 var halfPriceItems = basket.Items.Count(i => i.Id == offer.DiscountedProductId);
