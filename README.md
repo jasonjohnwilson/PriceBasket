@@ -16,13 +16,13 @@ In a more complex application with a rich domain it may be worth applying DDD, w
 
 ### Bjss.PriceBasket Layers:-
 
- * Bjss.PriceBasket.Core *- contains the main business logic and most of the code that would normally be unit tested fully in a production app.
+ * Bjss.PriceBasket.Core - contains the main business logic and most of the code that would normally be unit tested fully in a production app.
 
- * Bjss.PriceBasket.Infrastructure *- contains the code that is subject to change most frequently IO, data access, web service...
+ * Bjss.PriceBasket.Infrastructure - contains the code that is subject to change most frequently IO, data access, web service...
 
- * Bjss.PriceBasket.Application *- contains a layer between the presentation and the core domain.  Provides code for interacting between the user and the interface
+ * Bjss.PriceBasket.Application - contains a layer between the presentation and the core domain.  Provides code for interacting between the user and the interface
 
- * Bjss.PriceBasket *- outer most layer which interacts directly with the console.  Also boostraps the application.
+ * Bjss.PriceBasket - outer most layer which interacts directly with the console.  Also boostraps the application.
 
  ## Unit Testing
   
