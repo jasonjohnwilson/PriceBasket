@@ -14,7 +14,7 @@ testing really easy as all the dependencies are externalised.
 
 In a more complex application with a rich domain it may be worth applying DDD, which is the next step on from this architecture.
 
-### Bjss.PriceBasket Layers:-
+### Bjss.PriceBasket Layers
 
  * Bjss.PriceBasket.Core - contains the main business logic and most of the code that would normally be unit tested fully in a production app.
 
